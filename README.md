@@ -12,5 +12,4 @@ Submitted the assignment with an hour to spare until deadline but was already co
 Had a number of fumbles with this Challlenge.
   The first being outside factors I had to concentrate on the entire week leading up to deadline where I couldn't start on the assignment until the final day.
   During my troubles, I couldnt figure out how to lower the amount of x-axis ticks so I extended the width of the first chart to 30000.  Hopefully I can figure out a     quick function for that.
-  Then, I accidentally deleted the tables from the pd file somehow and saved over it in jupyter labs before I realized what I had done.  I had to start over from scratch but luckily remembered the code for most of the questions I had already completed.  
-  
+  Then, I accidentally deleted the tables from the pd file somehow and saved over it in jupyter labs before I realized what I had done.  I had to start over from scratch but luckily remembered the code for most of the questions I had already completed.  Next time I will be sure to start earlier and make it a habit to constantly upload to github incase of something like this happening again.
